@@ -1,0 +1,25 @@
+{
+  "name": "qgm",
+  "version": "0.0.1",
+  "description": "Qaraqalpaq tili grammatikası",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dauletbaev/qaraqalpaq-tili-grammatikasi.git"
+  },
+  "keywords": [
+    "grammatika",
+    "fonetika",
+    "morfologiya",
+    "sintaksis"
+  ],
+  "author": "Abat Dauletbaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dauletbaev/qaraqalpaq-tili-grammatikasi/issues"
+  },
+  "homepage": "https://github.com/dauletbaev/qaraqalpaq-tili-grammatikasi#readme"
+}

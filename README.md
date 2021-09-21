@@ -1,0 +1,1 @@
+# Qaraqalpaq tili grammatikası (qgm)
