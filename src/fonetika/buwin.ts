@@ -90,3 +90,16 @@ export const qamawBuwinliMa = (soz: string): boolean => {
 
   return qamawma;
 };
+
+
+/**
+ * Buwınnıń juwan yaki jińishkeligin anıqlaw
+ * @param buwin Tekseriletuǵın buwın
+ * @returns {boolean} Ekilik logikalıq operator qaytaradı (Jalǵan ya Shın)
+ */
+export const juwanBuwinba = (buwin: string): boolean => {
+  if (!!buwin.match(/[áieóú]/gi)) {
+    return false;
+  }
+  return true;
+};
